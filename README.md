@@ -1,2 +1,2 @@
 # expenseDemo
-React Native Refresher
+React refresher project
